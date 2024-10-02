@@ -1,7 +1,7 @@
 # error-feedback-generalized-smoothness
 # Image classification experiments on CIFAR-10
 
-We present the code of the experimental results of the paper "Communication-efficient Algorithms Under Relaxed Smoothness Assumptions".
+We present the code of the experimental results of the paper "Communication-efficient Algorithms Under Generalized Smoothness Assumptions".
 
 The implementation uses PyTorch. 
 
